@@ -1,4 +1,4 @@
-https://cytelsystem.github.io/ResetaLemonPie/index.html
+https://cytelsystem.github.io/ResetaLemonPie
 
 # Reseta El clásico Lemon Pie
 ## Lenguaje de Programacion HTML5
